@@ -11,7 +11,7 @@ Driver for 8-bit I2C GPIO expander MCP23008.
 ## Installation
 
 ```sh
-idf.py add-dependency "esp-idf-lib/mcp23008^1.0.0
+idf.py add-dependency esp-idf-lib/mcp23008^1.0.0
 ```
 
 ## Support
