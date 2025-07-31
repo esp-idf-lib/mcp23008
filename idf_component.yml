@@ -1,5 +1,5 @@
 ---
-version: 1.0.6
+version: 1.0.7
 description: Driver for 8-bit I2C GPIO expander MCP23008
 license: BSD-3
 targets:
